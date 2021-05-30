@@ -3,9 +3,9 @@
 0.0.0.0 s.youtube.com
 0.0.0.0 youtube.com
 0.0.0.0 googlevideo.com
+0.0.0.0 youtubei.googleapis.com
 0.0.0.0 redirector.googlevideo.com
 0.0.0.0 manifest.googlevideo.com
-0.0.0.0 youtubei.googleapis.com
 0.0.0.0 suggestqueries.google.com
 0.0.0.0 i.ytimg.com
 0.0.0.0 yt3.ggpht.com
@@ -16,3 +16,4 @@
 0.0.0.0 i.google.com
 0.0.0.0 googlevideo.com
 0.0.0.0 youtu.be
+0.0.0.0 yt4.ggpht.com
